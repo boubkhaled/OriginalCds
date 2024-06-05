@@ -1,7 +1,6 @@
 # D-Link DWA-131 Wireless N Nano USB
 
-- [Download D-Link_DWA_131_N_Original_CD_Windows_Drivers.zip](./D-Link_DWA_131_N_Original_CD_Windows_Drivers.zip)
-- [PDF CheatSheet](./DWA_131_ E1_Datasheet_EN_EU.pdf)
+- [PDF CheatSheet](DWA_131_ E1_Datasheet_EN_EU.pdf)
 
 **Superior Wireless Coverage**
 
