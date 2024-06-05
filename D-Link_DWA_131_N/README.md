@@ -1,4 +1,6 @@
 # D-Link DWA-131 Wireless N Nano USB
+![DWA131E1Image LSide011Black](https://github.com/boubkhaled/OriginalCds/assets/18572114/0d7d8267-2677-435c-8666-83d08085bb5e)
+
 
 - [PDF CheatSheet](DWA_131_E1_Datasheet_EN_EU.pdf)
 
@@ -10,10 +12,10 @@ D-Link Wireless N products use smart Antenna technology to transmit multiple str
 Furthermore, D-Link Wireless N technology extends your wireless range,
 while maintaining compatibility with all your existing 802.11b/g wireless routers and access points.
 
-• Wi-Fi Protected Setup push-button design for easy connection  
-• Compatible with existing wireless 802.11b/g networks  
-• Better wireless reception around the home  
- **Easy  to set up  
+â€¢Â Wi-Fi Protected Setup push-button design for easy connection  
+â€¢Â Compatible with existing wireless 802.11b/g networks  
+â€¢Â Better wireless reception around the home  
+Â **EasyÂ  to set up  
 **
 
 The Quick Setup Wizard provides an easy way to setup your USB adapter and the Wireless Manager included with this product helps keep track of all your most frequently accessed networks.
@@ -26,7 +28,7 @@ Wi-Fi Protected Setup (WPS) feature enables devices to establish an easy, one-ti
 single-click connection with an access point or wireless router, 
 eliminating complex encryption codes.
 WPS also offers advanced security features that are simple and easy to confi gure.
-With its unique ‘Firefl y’ design and unmatched performance,
+With its unique â€˜Firefl yâ€™ design and unmatched performance,
 this ultra-portable USB adapter is an ideal choice for setting up a secure wireless connection.
 
 - [Product Informations](https://www.dlink.com/en/products/dwa-131-wireless-n-nano-usb-adapter)
