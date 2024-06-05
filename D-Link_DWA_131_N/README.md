@@ -1,6 +1,6 @@
 # D-Link DWA-131 Wireless N Nano USB
 
-- [PDF CheatSheet](DWA_131_ E1_Datasheet_EN_EU.pdf)
+- [PDF CheatSheet](D-Link_DWA_131_N/DWA_131_ E1_Datasheet_EN_EU.pdf)
 
 **Superior Wireless Coverage**
 
